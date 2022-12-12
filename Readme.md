@@ -1,1 +1,2 @@
-Projeto Git conectando ao Github e aprendendo a utilizar ambos
+Olá, esse projeto ensina a usar o Git e conectar ao Github.
+Isso é uma alteração
